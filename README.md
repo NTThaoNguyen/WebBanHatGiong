@@ -4,6 +4,11 @@
 1. Nguyễn Thị Thảo Nguyên
 2. Tạ Thương Thương
 3. Lê Thị Thu Hương
+### Trong thư mục chứa những file sau:
+1. File Word báo cáo
+2. Database 
+3. Source code 
+4. Templates HTML đã sử dụng trong đề tài.
 ### Chức năng:
 Đóng vai trò là một sản phẩm trung gian giữa người dùng và nhà cung cấp sản phẩm, website bán hạt giống bao gồm các chức năng cơ bản như sau: 
 -	Về phía người dùng:
@@ -22,4 +27,9 @@
 + Công cụ hỗ trợ lập trình mã nguồn mở Eclipse Release 4.5.0 trở lên, Microsoft SQL Server 2008 trở lên.
 + Đảm bảo tính bảo mật thông tin cho khách hàng và doanh nghiệp.
 + Giao diện tương tác đơn giản, dễ sử dụng.
+### Mô tả hệ thống
+Một cửa hàng mua bán hạt giống cây cần một hệ thống quản lý, hoạt động của cửa hàng gồm:
+-	Nhập hàng: Khi có nhu cầu nhập thêm hạt giống, nhân viên cửa hàng tiến hành cung cấp các thông tin về hạt giống mà họ đã tiến hành nhập, chi tiết về sản phẩm và lưu trữ vào cơ sở dữ liệu.
+-	Bán hàng: Sản phẩm sẽ được bán lẻ cho khách hàng. Mỗi sản phẩm đều phải có các thông tin cơ bản như tên loại hạt, giá cả, số lượng tương ứng với giá đó, đơn vị tính toán. Khi khách tiến hành mua hàng, chi tiết đơn hàng sẽ được lưu vào chi tiết đặt hàng của vị khách đó. Ngoài ra, để mua được hàng, khách hàng cần có tài khoản để đăng nhập, mỗi khách hàng đang tiến hành mua hàng đều đã cung cấp các thông tin cá nhân như số điện thoại, email, địa chỉ … Nếu khách hàng chưa có tài khoản, họ cần tiến hành đăng ký để có thể mua được sản phẩm mong muốn.
+-	Quản lý: Người dùng hệ thống với vai trò quản trị viên sẽ được thực hiện các thao tác thêm, xóa, sửa đối với các thông tin của hệ thống bao gồm thông tin các user khác, thông tin về sản phẩm hoặc lịch sử đặt hàng của khách hàng.
 
