@@ -10,12 +10,12 @@
 3. Source code 
 4. Templates HTML đã sử dụng trong đề tài.
 ### Chức năng:
-Đóng vai trò là một sản phẩm trung gian giữa người dùng và nhà cung cấp sản phẩm, website bán hạt giống bao gồm các chức năng cơ bản như sau: 
--	**Về phía người dùng:**  
+Đóng vai trò là một sản phẩm trung gian giữa người dùng và nhà cung cấp sản phẩm, website bán hạt giống bao gồm các chức năng cơ bản như sau:   
+**Về phía người dùng:**  
 + Xem thông tin sản phẩm, thông tin nhà cung cấp  
 + Đăng nhập, đăng ký, quên mật khẩu  
 + Đặt hàng, chỉnh sửa giỏ hàng  
--	**Về phía nhà cung cấp:**  
+**Về phía nhà cung cấp:**  
 + Xem thông tin sản phẩm, thông tin doanh nghiệp  
 + Quản lý người dùng, quản lý sản phẩm và lịch sử các đơn hàng.  
 ### Yêu cầu của chương trình: 
