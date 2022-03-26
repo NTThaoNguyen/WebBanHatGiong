@@ -33,3 +33,10 @@ Một cửa hàng mua bán hạt giống cây cần một hệ thống quản l�
 -	**Bán hàng:** Sản phẩm sẽ được bán lẻ cho khách hàng. Mỗi sản phẩm đều phải có các thông tin cơ bản như tên loại hạt, giá cả, số lượng tương ứng với giá đó, đơn vị tính toán. Khi khách tiến hành mua hàng, chi tiết đơn hàng sẽ được lưu vào chi tiết đặt hàng của vị khách đó. Ngoài ra, để mua được hàng, khách hàng cần có tài khoản để đăng nhập, mỗi khách hàng đang tiến hành mua hàng đều đã cung cấp các thông tin cá nhân như số điện thoại, email, địa chỉ … Nếu khách hàng chưa có tài khoản, họ cần tiến hành đăng ký để có thể mua được sản phẩm mong muốn.
 -	**Quản lý:** Người dùng hệ thống với vai trò quản trị viên sẽ được thực hiện các thao tác thêm, xóa, sửa đối với các thông tin của hệ thống bao gồm thông tin các user khác, thông tin về sản phẩm hoặc lịch sử đặt hàng của khách hàng.
 - **Xây dựng UX/UI và lấy dữ liệu dựa trên:** https://vietseeds.vn/
+### Tóm tắt
+| Mô tả dự án | Xây dựng website bán hạt giống gồm các chức năng cơ bản: Quản lý người dùng, quản lý sản phẩm và lịch sử các đơn hàng |
+|--------------|-------|
+| Số lượng người tham gia | 3 | 
+| Vị trí làm việc | Build Cart + Tester |
+| Vai trò trong dự án | Thiết kế CSDL + Tìm kiếm và tích hợp template HTML + Xây dựng các chức năng liên quan tới giỏ hàng và đơn đặt hàng + Test Website	|
+- Make a report of the project. | 
