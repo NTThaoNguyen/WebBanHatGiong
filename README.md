@@ -39,4 +39,4 @@ Một cửa hàng mua bán hạt giống cây cần một hệ thống quản l�
 | Số lượng người tham gia | 3 | 
 | Vị trí làm việc | Build Cart + Tester |
 | Vai trò trong dự án | Thiết kế CSDL + Tìm kiếm và tích hợp template HTML + Xây dựng các chức năng liên quan tới giỏ hàng và đơn đặt hàng + Test Website	|
-- Make a report of the project. | 
+
